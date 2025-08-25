@@ -4,16 +4,16 @@ Amazon Bedrock offers Stability AI's Image Models and Image Services via SDK, AP
 
 These Models and Services are avaible in four categories:
 
-- Generate Services
+- **Generate**
     - Stable Diffusion 3.5, Stable Image Ultra, Stable Image Core
-- Upscale Services
+- **Upscale**
     - Conservative Upscale, Creative Upscale, Fast Upscale
-- Edit Services
+- **Edit**
     - Erase, Inpaint, Outpaint, Search and Replace, Search and Recolor, Remove Background 
-- Control Services
+- **Control**
     - Sketch, Structure, Style Guide, Style Transfer
 
-The repository provides samples notebooks:
+The repository provides the following samples notebooks:
 
 - [Stability AI's Image Model and Image Services on Amazon Bedrock](./stable-image-services/stability-AI-stable-image-services-sample-notebook.ipynb)
 - [Amazon Bedrock and Stability.ai Stable Diffusion 3.5 Demo](./stablediffusion-game-demo/bedrock_SD3_game_demo.ipynb)
