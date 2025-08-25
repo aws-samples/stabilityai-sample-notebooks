@@ -1,6 +1,24 @@
 ## Stability AI On AWS 
 
-Stability AI is a leading artificial intelligence company that has made significant strides in the field of generative AI. Founded in 2019 by Emad Mostaque, the company is best known for creating Stable Diffusion, a groundbreaking text-to-image model that has revolutionized the way people create and manipulate visual content. Stability AI's innovations have found applications across various industries, including design, marketing, education, and filmmaking. The company's work has attracted significant attention from investors, securing substantial funding to support its ambitious projects.
+Amazon Bedrock offers Stability AI's Image Models and Image Services via SDK, API or the Amazon Bedrock playground. 
+
+These Models and Services are avaible in four categories:
+
+- Generate Services
+    - Stable Diffusion 3.5, Stable Image Ultra, Stable Image Core
+- Upscale Services
+    - Conservative Upscale, Creative Upscale, Fast Upscale
+- Edit Services
+    - Erase, Inpaint, Outpaint, Search and Replace, Search and Recolor, Remove Background 
+- Control Services
+    - Sketch, Structure, Style Guide, Style Transfer
+
+The repository provides samples notebooks:
+
+- [Stability AI's Image Model and Image Services on Amazon Bedrock](./stable-image-services/stability-AI-stable-image-services-sample-notebook.ipynb)
+- [Amazon Bedrock and Stability.ai Stable Diffusion 3.5 Demo](./stablediffusion-game-demo/bedrock_SD3_game_demo.ipynb)
+- [Amazon Bedrock and Stability.ai Stable Image Ultra 1.0 Advertising Demo](./stablediffusion-ad-demo/bedrock_SD3_adblog_demo-mna.ipynb)
+
 
 
 ## Security
