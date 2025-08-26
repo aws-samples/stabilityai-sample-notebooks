@@ -15,7 +15,7 @@ These Models and Services are avaible in four categories:
 
 The repository provides the following samples notebooks:
 
-- [Stability AI's Image Model and Image Services on Amazon Bedrock](./stable-image-services/stability-AI-stable-image-services-sample-notebook.ipynb)
+- [Stability AI's Image Models and Image Services on Amazon Bedrock](./stability-ai-image-services/stability-ai-image-services-sample-notebook.ipynb)
 - [Amazon Bedrock and Stability.ai Stable Diffusion 3.5 Demo](./stablediffusion-game-demo/bedrock_SD3_game_demo.ipynb)
 - [Amazon Bedrock and Stability.ai Stable Image Ultra 1.0 Advertising Demo](./stablediffusion-ad-demo/bedrock_SD3_adblog_demo-mna.ipynb)
 
