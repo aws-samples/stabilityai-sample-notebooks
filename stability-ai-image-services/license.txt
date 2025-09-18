@@ -40,32 +40,38 @@ anything the license permits.
 -------------------------------------------------------
 4. Title: “Blue Bright Lights“
    Author: Pixabay
-   Source: https://www.pexels.com/photo/abstract-painting-1109354/
-   License: CCO
+   Source: https://www.pexels.com/photo/blue-bright-lights-373543/
+   License: CC0
 
 -------------------------------------------------------
-5. Title: “Man in metropolis“
+5. Title: “Standing Woman Statue“
+   Author: Simon Berger
+   Source: https://www.pexels.com/photo/standing-woman-statue-2193186/
+   License: CC
+
+-------------------------------------------------------
+6. Title: “Man in Metropolis“
    Author: Sanwal Yousaf
    Source: Generated with Stable Image Ultra, licensed under CC BY 4.0
    Prompt and Edits: Sanwal Yousaf, Stability AI
    License: CC BY 4.0
 
 -------------------------------------------------------
-6. Title: “Man wearing puffer jacket“
+7. Title: “Man wearing puffer jacket“
    Author: Sanwal Yousaf
    Source: Generated with Stable Image Ultra, licensed under CC BY 4.0
    Prompt and Edits: Sanwal Yousaf, Stability AI
    License: CC BY 4.0
    
 -------------------------------------------------------
-7. Title: “Female model wearing fall sweater“
+8. Title: “Female model wearing fall sweater“
    Author: Sanwal Yousaf
    Prompt and Edits: Sanwal Yousaf, Stability AI
    Source: Generated with Stable Image Ultra, licensed under CC BY 4.0
    License: CC BY 4.0
    
 -------------------------------------------------------
-8. Title: “Student's desk“
+9. Title: “Student's desk“
    Author: Sanwal Yousaf
    Prompt and Edits: Sanwal Yousaf, Stability AI
    Source: Generated with Stable Image Ultra, licensed under CC BY 4.0
@@ -74,5 +80,5 @@ anything the license permits.
 
 -------------------------------------------------------
 
-
-License link: https://creativecommons.org/licenses/by/4.0/
+CC BY 4.0 License link: https://creativecommons.org/licenses/by/4.0/
+CC0 License Link 
