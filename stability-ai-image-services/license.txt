@@ -1,0 +1,78 @@
+Image Collection Attribution & License
+—————————————————
+
+This project contains a mix of human-created and AI-generated images.  
+Unless otherwise noted, all images are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+  for any purpose, even commercially.
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license,
+  and indicate if changes were made. You may do so in any reasonable manner,
+  but not in any way that suggests the licensor endorses you or your use.
+
+No additional restrictions — You may not apply legal terms or
+technological measures that legally restrict others from doing
+anything the license permits.
+
+-------------------------------------------------------
+1. Title: “House, mountains, and river sketch“
+   Author: Sanwal Yousaf
+   Source: Stability AI, licensed under CC BY 4.0
+   License: CC BY 4.0
+
+-------------------------------------------------------
+2. Title: “Person Sitting on a brown box“
+   Author: Pawel L.
+   Source: https://www.pexels.com/photo/person-sitting-on-brown-box-1320737/
+   License: CC
+   
+-------------------------------------------------------
+3. Title: “Abstract Paining“
+   Author: Steve Johnson
+   Source: https://www.pexels.com/photo/abstract-painting-1109354/
+   License: CC
+   
+-------------------------------------------------------
+4. Title: “Blue Bright Lights“
+   Author: Pixabay
+   Source: https://www.pexels.com/photo/abstract-painting-1109354/
+   License: CCO
+
+-------------------------------------------------------
+5. Title: “Man in metropolis“
+   Author: Sanwal Yousaf
+   Source: Generated with Stable Image Ultra, licensed under CC BY 4.0
+   Prompt and Edits: Sanwal Yousaf, Stability AI
+   License: CC BY 4.0
+
+-------------------------------------------------------
+6. Title: “Man wearing puffer jacket“
+   Author: Sanwal Yousaf
+   Source: Generated with Stable Image Ultra, licensed under CC BY 4.0
+   Prompt and Edits: Sanwal Yousaf, Stability AI
+   License: CC BY 4.0
+   
+-------------------------------------------------------
+7. Title: “Female model wearing fall sweater“
+   Author: Sanwal Yousaf
+   Prompt and Edits: Sanwal Yousaf, Stability AI
+   Source: Generated with Stable Image Ultra, licensed under CC BY 4.0
+   License: CC BY 4.0
+   
+-------------------------------------------------------
+8. Title: “Student's desk“
+   Author: Sanwal Yousaf
+   Prompt and Edits: Sanwal Yousaf, Stability AI
+   Source: Generated with Stable Image Ultra, licensed under CC BY 4.0
+   License: CC BY 4.0
+  
+
+-------------------------------------------------------
+
+
+License link: https://creativecommons.org/licenses/by/4.0/
