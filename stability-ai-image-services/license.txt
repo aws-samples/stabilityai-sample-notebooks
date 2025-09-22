@@ -81,4 +81,4 @@ anything the license permits.
 -------------------------------------------------------
 
 CC BY 4.0 License link: https://creativecommons.org/licenses/by/4.0/
-CC0 License Link 
+CC0 License link: https://creativecommons.org/public-domain/cc0/ 
